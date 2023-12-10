@@ -1,1 +1,1 @@
-# BSFI-case-study-
+# bfsi_credit_score_case_study
